@@ -3,6 +3,7 @@
 - 👀 I’m interested in CS, Iot , AI
 - 🌱 I’m currently learning AI
 - 📫 How to reach me : F64089549@gs.ncku.edu.tw
+- 🦈 Programming Language : C , C++ ,  C# ,  Java ,  Python
 
 <!-- - 💞️ I’m looking to collaborate on ... -->
 
