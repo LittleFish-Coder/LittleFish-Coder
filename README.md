@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Jen Yang Yu
+- 🏫 Education : BA in Department of Geomatics , National Cheng Kung University
 - 👀 I’m interested in CS, Iot , AI
 - 🌱 I’m currently learning AI
 - 📫 How to reach me : F64089549@gs.ncku.edu.tw
