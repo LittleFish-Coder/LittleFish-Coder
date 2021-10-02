@@ -2,8 +2,9 @@
 - 🏫 Education : BA in Department of Geomatics , National Cheng Kung University
 - 👀 I’m interested in CS, Iot , AI
 - 🌱 I’m currently learning AI
-- 📫 How to reach me : F64089549@gs.ncku.edu.tw
 - 🦈 Programming Language : C , C++ ,  C# ,  Java ,  Python
+- 📫 How to reach me : F64089549@gs.ncku.edu.tw
+
 
 <!-- - 💞️ I’m looking to collaborate on ... -->
 
