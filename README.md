@@ -29,7 +29,7 @@ Using MNIST dataset to train a model to recognize the handwritten digits. The on
 - **TSMC x Microsoft Hackathon - CareerHack 2022:** Reach the final round and present the project to the judges.
 - **TSMC IT Internal Hackathon:** Creative Hacker & Popular Hacker
 
-## 🛠️ Skills
+## Skills
 
 ### Languages
 
