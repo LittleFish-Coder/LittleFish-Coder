@@ -80,7 +80,3 @@ Using MNIST dataset to train a model to recognize the handwritten digits. The on
 
 Gmail: adrianyu890317@gmail.com
 LinkedIn: https://www.linkedin.com/in/chen-yang-yu/
-
-```
-
-```
