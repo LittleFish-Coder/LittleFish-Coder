@@ -78,5 +78,5 @@ Using MNIST dataset to train a model to recognize the handwritten digits. The on
 
 ## Contact Me
 
-Gmail: adrianyu890317@gmail.com
-LinkedIn: https://www.linkedin.com/in/chen-yang-yu/
+- Gmail: adrianyu890317@gmail.com
+- LinkedIn: https://www.linkedin.com/in/chen-yang-yu/
