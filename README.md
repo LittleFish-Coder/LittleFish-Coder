@@ -25,7 +25,7 @@ I worked as a DevOps intern in TSMC. I am responsible for developing a frontend 
 
 - **[Taipei YouBike Info Collector](https://github.com/LittleFish-Coder/youbike-info-collector)**
 
-    An OpenData project that collects the real-time information of Taipei YouBike. The [online website service](youbike-info-collector.streamlit.app/) is deployed on Streamlit Community Cloud.
+    An OpenData project that collects the real-time information of Taipei YouBike. The [online website service](https://youbike-info-collector.streamlit.app/) is deployed on Streamlit Community Cloud.
 
 - **[Online Handwritten Recognition System](https://littlefish-coder-mnist-classifier.streamlit.app/)**
     
