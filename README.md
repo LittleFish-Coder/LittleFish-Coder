@@ -20,6 +20,7 @@ I worked as a DevOps intern in TSMC. I am responsible for developing a frontend 
 - **[AutoHighlight Visionary for Basketball](https://github.com/LittleFish-Coder/autohighlight-visionary)**
 
     A real-time object detection system(basketball, player shot, and hoop) that can detect if the player scores based on the trajectory of the basketball.
+    
     <img src="https://github.com/LittleFish-Coder/autohighlight-visionary/blob/master/src/scoring.gif?raw=true" width="480">
 
 - **[Taipei YouBike Info Collector](https://github.com/LittleFish-Coder/youbike-info-collector)**
