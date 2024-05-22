@@ -7,13 +7,13 @@ I am Chen-Yang Yu, currently pursuing my master's degree in AI Robotics at Natio
 ## Currently Working On
 
 - Graph Neural Network on forgery detection
-- Generative AI for pose translation
-- Object detection for traffic and sports events
+- Generative AI for pose2img translation
+- Object detection for sports events
 
 ## Internship Experience
 
 **TSMC (Jun. 2022 - Jan. 2023):**
-I worked as a DevOps intern in TSMC. I am responsible for developing a frontend application for the internal use of the company. I also developed a backend application to support the frontend application.
+I worked as a DevOps intern at TSMC. I am responsible for developing a front-end application for the internal use of the company. I also created a backend application to support the frontend application.
 
 ## Projects
 
@@ -29,7 +29,7 @@ I worked as a DevOps intern in TSMC. I am responsible for developing a frontend 
 
 - **[Online Handwritten Recognition System](https://littlefish-coder-mnist-classifier.streamlit.app/)**
     
-    Using MNIST dataset to train a model to recognize the handwritten digits. The online service is deployed by using Streamlit.
+    Using the MNIST dataset to train a model to recognize the handwritten digits.
 
 ## Achievements
 
