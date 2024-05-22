@@ -16,6 +16,10 @@ I am Chen-Yang Yu, currently pursuing my master's degree in AI Robotics at Natio
 I worked as a DevOps intern at TSMC. I am responsible for developing a front-end application for the internal use of the company. I also created a backend application to support the frontend application.
 
 ## Projects
+- **[YYDS Dance Generator (NCKU GDSC 2nd AI Team Project)](https://github.com/LittleFish-Coder/yyds-dance-generator)**
+
+    A dance generator that can generate a synthetic dance video from the raw video. 
+    ![pose2img](https://github.com/LittleFish-Coder/yyds-dance-generator/blob/master/src/training_pose2img.gif?raw=true)
 
 - **[AutoHighlight Visionary for Basketball](https://github.com/LittleFish-Coder/autohighlight-visionary)**
 
