@@ -19,7 +19,7 @@ I worked as a DevOps intern at TSMC. I am responsible for developing a front-end
 - **[YYDS Dance Generator (NCKU GDSC 2nd AI Team Project)](https://github.com/LittleFish-Coder/yyds-dance-generator)**
 
     A dance generator that can generate a synthetic dance video from the raw video. 
-    ![pose2img](https://github.com/LittleFish-Coder/yyds-dance-generator/blob/master/src/training_pose2img.gif?raw=true)
+    ![pose2img](https://github.com/LittleFish-Coder/yyds-dance-generator/blob/master/src/pix2pixHD/magnetic_dance2pose2fish.gif?raw=true)
 
 - **[AutoHighlight Visionary for Basketball](https://github.com/LittleFish-Coder/autohighlight-visionary)**
 
