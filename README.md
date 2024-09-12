@@ -2,18 +2,22 @@
 
 ## About Me
 
-I am Chen-Yang Yu, currently pursuing my master's degree in AI Robotics at National Cheng Kung University. I am passionate about GenrativeAI, GNN, Computer Vision, and Software Development.
+I am Chen-Yang Yu, currently pursuing my master's degree in AI Robotics at National Cheng Kung University.
+
+Research Domain: GenerativeAI, GNN, Computer Vision, and Software Development.
 
 ## Currently Working On
 
-- Graph Neural Network on forgery detection
-- Generative AI for pose2img translation
-- Object detection for sports events
+- Few Shot Learning on forgery detection (GCN, ViT)
+- Few Shot Learning on Fake News Detection (GCN, BERT)
 
 ## Internship Experience
 
-**TSMC (Jun. 2022 - Jan. 2023):**
-I worked as a DevOps intern at TSMC. I am responsible for developing a front-end application for the internal use of the company. I also created a backend application to support the frontend application.
+**Micron (Jul. 2024 - Aug. 2024) - Data Scientist Intern:**
+Developed statistical-based solutions for anomaly detection in manufacturing processes to enhance Overall Equipment Effectiveness (OEE).
+
+**TSMC (Jun. 2022 - Jan. 2023) - DevOps Intern:**
+Responsible for developing a front-end application for the internal use of the company. I also created a backend application to support the frontend application.
 
 ## Projects
 - **[YYDS Dance Generator (NCKU GDSC 2nd AI Team Project)](https://github.com/LittleFish-Coder/yyds-dance-generator)**
@@ -36,9 +40,11 @@ I worked as a DevOps intern at TSMC. I am responsible for developing a front-end
     Using the MNIST dataset to train a model to recognize the handwritten digits.
 
 ## Achievements
-
-- **TSMC x Microsoft Hackathon - CareerHack 2022:** Reach the final round and present the project to the judges.
-- **TSMC IT Internal Hackathon:** Creative Hacker & Popular Hacker
+- **Soul Coder:** Awarded by Google Developer Student Clubs, NCKU
+- **Popular & Creative Hacker:** Win the award at IT Hackathon during the TSMC Internship program
+- **Hackathon Finalist:** Reach the final competition at TSMCxMicrosoft Hackathon(Jan. 2022)
+- **Rank 13, AI CUP 2024 Spring:** Awarded Rank 13 in Generative-AI Navigation Information Competition for UAV
+Reconnaissance in Natural Environments I: Image Data Generation
 
 ## Skills
 
@@ -89,5 +95,5 @@ I worked as a DevOps intern at TSMC. I am responsible for developing a front-end
 
 ## Contact Me
 
-- Gmail: adrianyu890317@gmail.com
+- Gmail: chengyangyu.cs@gmail.com
 - LinkedIn: https://www.linkedin.com/in/chen-yang-yu/
