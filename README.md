@@ -4,25 +4,26 @@
 
 I am Chen-Yang Yu, currently pursuing my master's degree in AI Robotics at National Cheng Kung University.
 
-Research Domain: GenerativeAI, GNN, Computer Vision, and Software Development.
+Research Domain: GNN, Computer Vision, Language Model, and Software Development.
 
 ## Currently Working On
 
-- Few Shot Learning on forgery detection (GCN, ViT)
-- Few Shot Learning on Fake News Detection (GCN, BERT)
+Few Shot Learning on Fake News Detection (GCN, BERT)
 
 ## Internship Experience
-
 **Micron (Jul. 2024 - Aug. 2024) - Data Scientist Intern:**
-Developed statistical-based solutions for anomaly detection in manufacturing processes to enhance Overall Equipment Effectiveness (OEE).
+- Developed a real-time monitoring system to enhance **Overall Equipment Effectiveness (OEE)** by automating
+detection processes
+- Designed statistical models using multiple moving averages for **time series anomaly detection**
 
-**TSMC (Jun. 2022 - Jan. 2023) - DevOps Intern:**
-Responsible for developing a front-end application for the internal use of the company. I also created a backend application to support the frontend application.
+**TSMC (Jun. 2022 - Jan. 2023) - Software Engineer Intern:**
+- Engineered full-stack solutions using **Flutter(frontend)** and **Spring Boot(backend)** with **MongoDB**
+- Utilize Azure DevOps pipeline with **Git, Docker, Kubernetes, and CI/CD,** improving development efficiency
 
 ## Projects
 - **[YYDS Dance Generator (NCKU GDSC 2nd AI Team Project)](https://github.com/LittleFish-Coder/yyds-dance-generator)**
 
-    A dance generator that can generate a synthetic dance video from the raw video. 
+    An innovative generative AI dance synthesizer that transforms source images into dynamic dance movements, utilizing cutting-edge techniques from **MediaPipe** and **Pix2Pix**
     ![pose2img](https://github.com/LittleFish-Coder/yyds-dance-generator/blob/master/src/pix2pixHD/magnetic_dance2pose2fish.gif?raw=true)
 
 - **[AutoHighlight Visionary for Basketball](https://github.com/LittleFish-Coder/autohighlight-visionary)**
@@ -75,25 +76,17 @@ Reconnaissance in Natural Environments I: Image Data Generation
 ![mongodb](https://img.shields.io/badge/Mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![ArangoDB](https://img.shields.io/badge/ArangoDB-4AAE49?style=for-the-badge&logo=arangodb&logoColor=white)
 
-### Cloud
-
-![gcp](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-
 ### Tools
 
+![gcp](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![github](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-000000?style=for-the-badge&logo=github-actions&logoColor=white)
 ![docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI/CD-000000?style=for-the-badge&logo=github-actions&logoColor=white)
-
-### Operating System
-
-![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![MacOS](https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 
 ## Contact Me
 
-- Gmail: chengyangyu.cs@gmail.com
+- E-mail: chengyangyu.cs@gmail.com
 - LinkedIn: https://www.linkedin.com/in/chen-yang-yu/
+- HuggingFace: https://huggingface.co/LittleFish-Coder
