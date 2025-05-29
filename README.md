@@ -25,11 +25,13 @@ detection processes
 ## Projects
 - **[GGWhisper](https://github.com/LittleFish-Coder/GGWhisper)**
     
-    ![Runner-up at TSMC IT Hackathon 2025](https://img.shields.io/badge/Runner--up-TSMC%20IT%20Hackathon%202025-red)
+    ![Runner-up at TSMC IT Hackathon 2025](https://img.shields.io/badge/Runner--up-TSMC_IT_Hackathon_2025-red)
     
     A real-time translation system that can help enterprises to communicate with their foreign clients or partners.
 
 - **[YYDS Dance Generator (NCKU GDSC 2nd AI Team Project)](https://github.com/LittleFish-Coder/yyds-dance-generator)**
+    
+    ![Soul Coder](https://img.shields.io/badge/Soul_Coder-Google_Developer_Student_Clubs_(NCKU)-yellow)
 
     An innovative generative AI dance synthesizer that transforms source images into dynamic dance movements, utilizing cutting-edge techniques from **MediaPipe** and **Pix2Pix**
     ![pose2img](https://github.com/LittleFish-Coder/yyds-dance-generator/blob/master/src/pix2pixHD/magnetic_dance2pose2fish.gif?raw=true)
