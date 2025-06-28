@@ -1,26 +1,19 @@
-# Hi there! I'm Chen-Yang Yu
+# Hi there! I'm Fish
 
 ## About Me
 
 I am Chen-Yang Yu, currently pursuing my master's degree in AI Robotics at National Cheng Kung University.
 
-**Currently Working On Few Shot Learning on Fake News Detection (GAT, BERT, LLM)**
-
-Research Domain:
+Research Domain: 
 - GNN: Graph Neural Network
 - Computer Vision: Image Processing, Object Detection
 - Language Model: LLM, RAG, MCP
 - Software Development: Frontend, Backend, CI/CD
 
-## Internship Experience
-**Micron (Jul. 2024 - Aug. 2024) - Data Scientist Intern:**
-- Developed a real-time monitoring system to enhance **Overall Equipment Effectiveness (OEE)** by automating
-detection processes
-- Designed statistical models using multiple moving averages for **time series anomaly detection**
-
-**TSMC (Jun. 2022 - Jan. 2023) - Software Engineer Intern:**
-- Engineered full-stack solutions using **Flutter(frontend)** and **Spring Boot(backend)** with **MongoDB**
-- Utilize Azure DevOps pipeline with **Git, Docker, Kubernetes, and CI/CD,** improving development efficiency
+## Work Experience
+- Technical Specialist Intern, Microsoft (Jun. 205 ~ present)
+- Data Scientist Intern, Micron (Jul. 2024 ~ Aug. 2024)
+- Software Engineer Intern, TSMC (Jun. 2022 ~ Jan. 2023)
 
 ## Projects
 - **[GGWhisper](https://github.com/LittleFish-Coder/GGWhisper)**
