@@ -4,14 +4,13 @@
 
 I am Chen-Yang Yu, currently pursuing my master's degree in AI Robotics at National Cheng Kung University.
 
-Research Domain: 
-- GNN: Graph Neural Network
+Research Domain:
 - Computer Vision: Image Processing, Object Detection
 - Language Model: LLM, RAG, MCP
 - Software Development: Frontend, Backend, CI/CD
 
 ## Work Experience
-- Technical Specialist Intern, Microsoft (Jun. 205 ~ present)
+- Cloud & AI Solution Engineer Intern, Microsoft (Jun. 2025 ~ Sep. 2025)
 - Data Scientist Intern, Micron (Jul. 2024 ~ Aug. 2024)
 - Software Engineer Intern, TSMC (Jun. 2022 ~ Jan. 2023)
 
@@ -34,15 +33,7 @@ Research Domain:
     A real-time object detection system(basketball, player shot, and hoop) that can detect if the player scores based on the trajectory of the basketball.
     
     <img src="https://github.com/LittleFish-Coder/autohighlight-visionary/blob/master/src/scoring.gif?raw=true" width="480">
-
-## Publications
-
-**[DynGraph-GAT: Adaptive Edge Construction for Content-Based Few-Shot Fake News Detection](https://github.com/LittleFish-Coder/DynGraph-GAT)**
-
-![Accepted at ITAOI 2025](https://img.shields.io/badge/Accepted-ITAOI%202025-green)
-
-DynGraph-GAT is a few-shot fake news detection framework that constructs dynamic semantic graphs from news content, without user data. It combines RoBERTa embeddings and Graph Attention Networks, achieving strong performance in few-shot scenarios.
-
+    
 ## Achievements
 | Award                                   | Date                | Description                                                                                   |
 |----------------------------------------|-------------------------|-----------------------------------------------------------------------------------------------|
